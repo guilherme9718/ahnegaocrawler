@@ -4,8 +4,8 @@ Para fins de autoaprimoramento em web crawling e scraping, será feito um crawle
 Foi utilizado a biblioteca de Scrapy de Python. Para rodar o código, é preciso sobretudo instalar o Scrapy (recomendo fazer pelo pip) 
 e depois rodar o crawler desejado no terminal com o comando: 
 
-scrapy runspider textocrawler.py
+`scrapy runspider textocrawler.py`
 
 ou
 
-scrapy runspider memecrawler.py
+`scrapy runspider memecrawler.py`
